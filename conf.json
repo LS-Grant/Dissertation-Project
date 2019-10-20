@@ -1,0 +1,7 @@
+{
+	"dropbox_enabled": true,
+	"dropbox_access_token": "atuObiRySVAAAAAAAAAAGTYCocYEPveLFmPpizSS2fFhuTNI0Ay0zT5U1cY8xGik",
+	"dropbox_online_filepath": "home/pi/Final",
+	"upload_delay": 10,
+	"system_setup": 2.5
+}
